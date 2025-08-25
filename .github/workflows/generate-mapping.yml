@@ -1,0 +1,43 @@
+name: Generate mapping.json
+
+on:
+  push:
+    paths:
+      - 'images/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install npm dependencies
+        working-directory: ./scripts
+        run: npm install
+
+      - name: Generate mapping.json
+        working-directory: ./scripts
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY:       ${{ github.repository }}
+        run: npm run generate
+
+      - name: Commit mapping.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mapping.json
+          # Ahora comparamos el 'staged' contra HEAD
+          if ! git diff --cached --quiet HEAD -- mapping.json; then
+            git commit -m "chore: update mapping.json"
+            git push
+          else
+            echo "No changes in mapping.json, skipping commit."
+          fi
