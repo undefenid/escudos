@@ -8,11 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Grant write permissions to the GITHUB_TOKEN
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          # Use the token with write permissions
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
@@ -26,7 +30,7 @@ jobs:
         working-directory: ./scripts
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-          GITHUB_REPOSITORY:       ${{ github.repository }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: npm run generate
 
       - name: Commit mapping.json
@@ -34,8 +38,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add mapping.json
-          # Ahora comparamos el 'staged' contra HEAD
-          if ! git diff --cached --quiet HEAD -- mapping.json; then
+          # Check if there are changes to commit
+          if ! git diff --cached --quiet; then
             git commit -m "chore: update mapping.json"
             git push
           else
