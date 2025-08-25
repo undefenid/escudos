@@ -1948,5 +1948,449 @@
     "url": "https://undefenid.github.io/escudos/images/club-universidad-chile-chile.png",
     "country": "chile",
     "type": "club"
+  },
+  {
+    "slug": "club-universitario-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-universitario-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-urawa-reds-japon",
+    "url": "https://undefenid.github.io/escudos/images/club-urawa-reds-japon.png",
+    "country": "japon",
+    "type": "club"
+  },
+  {
+    "slug": "club-us-lece-italia",
+    "url": "https://undefenid.github.io/escudos/images/club-us-lece-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-utc-cajamarca-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-utc-cajamarca-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-vasco-da-gama-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-vasco-da-gama-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-venezia-italia",
+    "url": "https://undefenid.github.io/escudos/images/club-venezia-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-vila-nova-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-vila-nova-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-villarreal-cf-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-villarreal-cf-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-vitoria-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-vitoria-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-vitoria-guimaraes-portugal",
+    "url": "https://undefenid.github.io/escudos/images/club-vitoria-guimaraes-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-wanderers-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-wanderers-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-wanders-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-wanders-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-werder-remen-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-werder-remen-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wolfsburg-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-wolfsburg-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wydad-casablanca-marruecos",
+    "url": "https://undefenid.github.io/escudos/images/club-wydad-casablanca-marruecos.png",
+    "country": "marruecos",
+    "type": "club"
+  },
+  {
+    "slug": "colombia",
+    "url": "https://undefenid.github.io/escudos/images/colombia.png",
+    "country": "colombia",
+    "type": "national"
+  },
+  {
+    "slug": "copa-libertadores",
+    "url": "https://undefenid.github.io/escudos/images/copa-libertadores.png",
+    "country": "libertadores",
+    "type": "club"
+  },
+  {
+    "slug": "crystal-palace-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/crystal-palace-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "dinamarca",
+    "url": "https://undefenid.github.io/escudos/images/dinamarca.png",
+    "country": "dinamarca",
+    "type": "national"
+  },
+  {
+    "slug": "ecuador",
+    "url": "https://undefenid.github.io/escudos/images/ecuador.png",
+    "country": "ecuador",
+    "type": "national"
+  },
+  {
+    "slug": "ee-uu",
+    "url": "https://undefenid.github.io/escudos/images/ee-uu.png",
+    "country": "uu",
+    "type": "club"
+  },
+  {
+    "slug": "empoli-football-club-italia",
+    "url": "https://undefenid.github.io/escudos/images/empoli-football-club-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "eslovaquia",
+    "url": "https://undefenid.github.io/escudos/images/eslovaquia.png",
+    "country": "eslovaquia",
+    "type": "national"
+  },
+  {
+    "slug": "espana",
+    "url": "https://undefenid.github.io/escudos/images/espana.png",
+    "country": "espana",
+    "type": "national"
+  },
+  {
+    "slug": "estados unidos",
+    "url": "https://undefenid.github.io/escudos/images/estados%20unidos.png",
+    "country": "estados unidos",
+    "type": "national"
+  },
+  {
+    "slug": "everton-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/everton-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "finlandia",
+    "url": "https://undefenid.github.io/escudos/images/finlandia.png",
+    "country": "finlandia",
+    "type": "national"
+  },
+  {
+    "slug": "francia",
+    "url": "https://undefenid.github.io/escudos/images/francia.png",
+    "country": "francia",
+    "type": "national"
+  },
+  {
+    "slug": "fulham-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/fulham-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "futbol-club-barcelona-espana",
+    "url": "https://undefenid.github.io/escudos/images/futbol-club-barcelona-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "genoa-cricket-football-club-italia",
+    "url": "https://undefenid.github.io/escudos/images/genoa-cricket-football-club-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "getafe-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/getafe-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "girona-futbol-club-espana",
+    "url": "https://undefenid.github.io/escudos/images/girona-futbol-club-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "grecia",
+    "url": "https://undefenid.github.io/escudos/images/grecia.png",
+    "country": "grecia",
+    "type": "national"
+  },
+  {
+    "slug": "inglaterra",
+    "url": "https://undefenid.github.io/escudos/images/inglaterra.png",
+    "country": "inglaterra",
+    "type": "national"
+  },
+  {
+    "slug": "ipswich-town-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/ipswich-town-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "irlanda-del-norte",
+    "url": "https://undefenid.github.io/escudos/images/irlanda-del-norte.png",
+    "country": "norte",
+    "type": "club"
+  },
+  {
+    "slug": "italia",
+    "url": "https://undefenid.github.io/escudos/images/italia.png",
+    "country": "italia",
+    "type": "national"
+  },
+  {
+    "slug": "leicester-city-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/leicester-city-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "liverpool-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/liverpool-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "manchester-city-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/manchester-city-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "manchester-utd-england",
+    "url": "https://undefenid.github.io/escudos/images/manchester-utd-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "mexico",
+    "url": "https://undefenid.github.io/escudos/images/mexico.png",
+    "country": "mexico",
+    "type": "national"
+  },
+  {
+    "slug": "newcastle-united-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/newcastle-united-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "nottingham-forest-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/nottingham-forest-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "paises-bajos",
+    "url": "https://undefenid.github.io/escudos/images/paises-bajos.png",
+    "country": "bajos",
+    "type": "club"
+  },
+  {
+    "slug": "paraguay",
+    "url": "https://undefenid.github.io/escudos/images/paraguay.png",
+    "country": "paraguay",
+    "type": "national"
+  },
+  {
+    "slug": "peru",
+    "url": "https://undefenid.github.io/escudos/images/peru.png",
+    "country": "peru",
+    "type": "national"
+  },
+  {
+    "slug": "philadelphia-phillies-otros",
+    "url": "https://undefenid.github.io/escudos/images/philadelphia-phillies-otros.png",
+    "country": "otros",
+    "type": "club"
+  },
+  {
+    "slug": "portugal",
+    "url": "https://undefenid.github.io/escudos/images/portugal.png",
+    "country": "portugal",
+    "type": "national"
+  },
+  {
+    "slug": "psg-football-club-francia",
+    "url": "https://undefenid.github.io/escudos/images/psg-football-club-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "racing-club-argentina",
+    "url": "https://undefenid.github.io/escudos/images/racing-club-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "real-club-celta-de-vigo-espana",
+    "url": "https://undefenid.github.io/escudos/images/real-club-celta-de-vigo-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-club-deportivo-mallorca-espana",
+    "url": "https://undefenid.github.io/escudos/images/real-club-deportivo-mallorca-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-madrid-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/real-madrid-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-sociedad-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/real-sociedad-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-valladolid-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/real-valladolid-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "rumania",
+    "url": "https://undefenid.github.io/escudos/images/rumania.png",
+    "country": "rumania",
+    "type": "national"
+  },
+  {
+    "slug": "serbia",
+    "url": "https://undefenid.github.io/escudos/images/serbia.png",
+    "country": "serbia",
+    "type": "national"
+  },
+  {
+    "slug": "sevilla-futbol-club-espana",
+    "url": "https://undefenid.github.io/escudos/images/sevilla-futbol-club-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "southampton-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/southampton-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "suiza",
+    "url": "https://undefenid.github.io/escudos/images/suiza.png",
+    "country": "suiza",
+    "type": "national"
+  },
+  {
+    "slug": "toronto-blue-jays-otros",
+    "url": "https://undefenid.github.io/escudos/images/toronto-blue-jays-otros.png",
+    "country": "otros",
+    "type": "club"
+  },
+  {
+    "slug": "tottenham-hotspur-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/tottenham-hotspur-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "turquia",
+    "url": "https://undefenid.github.io/escudos/images/turquia.png",
+    "country": "turquia",
+    "type": "national"
+  },
+  {
+    "slug": "ucrania",
+    "url": "https://undefenid.github.io/escudos/images/ucrania.png",
+    "country": "ucrania",
+    "type": "national"
+  },
+  {
+    "slug": "uruguay",
+    "url": "https://undefenid.github.io/escudos/images/uruguay.png",
+    "country": "uruguay",
+    "type": "national"
+  },
+  {
+    "slug": "usa",
+    "url": "https://undefenid.github.io/escudos/images/usa.png",
+    "country": "usa",
+    "type": "national"
+  },
+  {
+    "slug": "valencia-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/valencia-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "venezuela",
+    "url": "https://undefenid.github.io/escudos/images/venezuela.png",
+    "country": "venezuela",
+    "type": "national"
+  },
+  {
+    "slug": "villarreal-club-de-futbol-espana",
+    "url": "https://undefenid.github.io/escudos/images/villarreal-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "washington-nationals-otros",
+    "url": "https://undefenid.github.io/escudos/images/washington-nationals-otros.png",
+    "country": "otros",
+    "type": "club"
+  },
+  {
+    "slug": "west-ham-united-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/west-ham-united-football-club-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "wolves-football-club-england",
+    "url": "https://undefenid.github.io/escudos/images/wolves-football-club-england.png",
+    "country": "england",
+    "type": "club"
   }
 ]
