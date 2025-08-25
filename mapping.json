@@ -622,5 +622,395 @@
     "url": "https://undefenid.github.io/escudos/images/club-cagliari-calcio-italia.png",
     "country": "italia",
     "type": "club"
+  },
+  {
+    "slug": "club-carabobo-venezuela",
+    "url": "https://undefenid.github.io/escudos/images/club-carabobo-venezuela.png",
+    "country": "venezuela",
+    "type": "club"
+  },
+  {
+    "slug": "club-caracas-venezuela",
+    "url": "https://undefenid.github.io/escudos/images/club-caracas-venezuela.png",
+    "country": "venezuela",
+    "type": "club"
+  },
+  {
+    "slug": "club-casa-pia-portugal",
+    "url": "https://undefenid.github.io/escudos/images/club-casa-pia-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-cds-tampico-madero-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-cds-tampico-madero-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-ceara-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-ceara-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cerro-ca-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-cerro-ca-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-cerro-largo-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-cerro-largo-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-cerro-porteno-paraguay",
+    "url": "https://undefenid.github.io/escudos/images/club-cerro-porteno-paraguay.png",
+    "country": "paraguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-cerro-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-cerro-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-chapecoense-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-chapecoense-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cienciano-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-cienciano-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-cobresal-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-cobresal-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-colo-colo-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-colo-colo-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-comerciantes-unidos-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-comerciantes-unidos-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-como-italia",
+    "url": "https://undefenid.github.io/escudos/images/club-como-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-coquimbo-unido-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-coquimbo-unido-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-cordoba-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-cordoba-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-corinthians-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-corinthians-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-coventry-city-england",
+    "url": "https://undefenid.github.io/escudos/images/club-coventry-city-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "club-crb-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-crb-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-criciuma-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-criciuma-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cruz-azul-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-cruz-azul-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-cruzeiro-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-cruzeiro-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cucuta-deportivo-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-cucuta-deportivo-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-cuiaba-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-cuiaba-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cuniburo-ecuador",
+    "url": "https://undefenid.github.io/escudos/images/club-cuniburo-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-curico-unido-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-curico-unido-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-cusco-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-cusco-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-danubio-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-danubio-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-defensor-sporting-uruguay",
+    "url": "https://undefenid.github.io/escudos/images/club-defensor-sporting-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-delfin-ecuador",
+    "url": "https://undefenid.github.io/escudos/images/club-delfin-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-iquique-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-deportes-iquique-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-limache-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-deportes-limache-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-quindio-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-deportes-quindio-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-tolima-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-deportes-tolima-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-alaves-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-alaves-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-cali-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-cali-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-cuenca-ecuador",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-cuenca-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-garcilaso-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-garcilaso-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-godoy-cruz-antonio-tomba-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-godoy-cruz-antonio-tomba-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-leganes-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-leganes-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-pasto-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-pasto-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-pereira-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-pereira-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-recoleta-paraguay",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-recoleta-paraguay.png",
+    "country": "paraguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-riestra-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-riestra-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-tachira-venezuela",
+    "url": "https://undefenid.github.io/escudos/images/club-deportivo-tachira-venezuela.png",
+    "country": "venezuela",
+    "type": "club"
+  },
+  {
+    "slug": "club-djurgarden-suecia",
+    "url": "https://undefenid.github.io/escudos/images/club-djurgarden-suecia.png",
+    "country": "suecia",
+    "type": "club"
+  },
+  {
+    "slug": "club-eintracht-frankfurt-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-eintracht-frankfurt-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-el-nacional-ecuador",
+    "url": "https://undefenid.github.io/escudos/images/club-el-nacional-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-elche-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-elche-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-emelec-ecuador",
+    "url": "https://undefenid.github.io/escudos/images/club-emelec-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-envigado-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-envigado-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-es-tunis-tunez",
+    "url": "https://undefenid.github.io/escudos/images/club-es-tunis-tunez.png",
+    "country": "tunez",
+    "type": "club"
+  },
+  {
+    "slug": "club-estoril-portugal",
+    "url": "https://undefenid.github.io/escudos/images/club-estoril-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-estrela-portugal",
+    "url": "https://undefenid.github.io/escudos/images/club-estrela-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-estudiantes-de-la-plata-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-estudiantes-de-la-plata-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-estudiantes-lp-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-estudiantes-lp-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-everton-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-everton-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-fc-augsburg-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-fc-augsburg-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-fc-heidenheim-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-fc-heidenheim-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-fc-nantes-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-fc-nantes-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-fiorentina-italia",
+    "url": "https://undefenid.github.io/escudos/images/club-fiorentina-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-flamengo-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-flamengo-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-fluminense-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-fluminense-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-fortaleza-brasil",
+    "url": "https://undefenid.github.io/escudos/images/club-fortaleza-brasil.png",
+    "country": "brasil",
+    "type": "club"
   }
 ]
