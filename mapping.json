@@ -168,6 +168,12 @@
     "type": "club"
   },
   {
+    "slug": "club-alianza-huanuco-peru",
+    "url": "https://undefenid.github.io/escudos/images/club-alianza-huanuco-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-alianza-lima-peru",
     "url": "https://undefenid.github.io/escudos/images/club-alianza-lima-peru.png",
     "country": "peru",
@@ -465,6 +471,12 @@
     "slug": "club-audax-italiano-chile",
     "url": "https://undefenid.github.io/escudos/images/club-audax-italiano-chile.png",
     "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-augsburgo-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-augsburgo-alemania.png",
+    "country": "alemania",
     "type": "club"
   },
   {
@@ -1050,6 +1062,12 @@
     "type": "club"
   },
   {
+    "slug": "club-guadalajara-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-guadalajara-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-gualberto-villarroel-sj-bolivia",
     "url": "https://undefenid.github.io/escudos/images/club-gualberto-villarroel-sj-bolivia.png",
     "country": "bolivia",
@@ -1203,6 +1221,12 @@
     "slug": "club-le-havre-francia",
     "url": "https://undefenid.github.io/escudos/images/club-le-havre-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-leeds-utd-england",
+    "url": "https://undefenid.github.io/escudos/images/club-leeds-utd-england.png",
+    "country": "england",
     "type": "club"
   },
   {
@@ -1566,6 +1590,12 @@
     "type": "club"
   },
   {
+    "slug": "club-queretaro-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-queretaro-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-racing-montevideo-uruguay",
     "url": "https://undefenid.github.io/escudos/images/club-racing-montevideo-uruguay.png",
     "country": "uruguay",
@@ -1719,6 +1749,12 @@
     "slug": "club-santos-brasil",
     "url": "https://undefenid.github.io/escudos/images/club-santos-brasil.png",
     "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-santos-laguna-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-santos-laguna-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
