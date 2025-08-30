@@ -1104,6 +1104,12 @@
     "type": "club"
   },
   {
+    "slug": "club-ind-medellin-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-ind-medellin-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-independiente-del-valle-ecuador",
     "url": "https://undefenid.github.io/escudos/images/club-independiente-del-valle-ecuador.png",
     "country": "ecuador",
@@ -1311,12 +1317,6 @@
     "slug": "club-marseille-francia",
     "url": "https://undefenid.github.io/escudos/images/club-marseille-francia.png",
     "country": "francia",
-    "type": "club"
-  },
-  {
-    "slug": "club-medellin-colombia",
-    "url": "https://undefenid.github.io/escudos/images/club-medellin-colombia.png",
-    "country": "colombia",
     "type": "club"
   },
   {
