@@ -1038,6 +1038,12 @@
     "type": "club"
   },
   {
+    "slug": "club-girona-fc-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-girona-fc-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-gremio-brasil",
     "url": "https://undefenid.github.io/escudos/images/club-gremio-brasil.png",
     "country": "brasil",
@@ -1596,6 +1602,12 @@
     "type": "club"
   },
   {
+    "slug": "club-rcd-mallorca-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-rcd-mallorca-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-real-betis-espana",
     "url": "https://undefenid.github.io/escudos/images/club-real-betis-espana.png",
     "country": "espana",
@@ -1719,6 +1731,12 @@
     "slug": "club-seattle-sounders-fc-usa",
     "url": "https://undefenid.github.io/escudos/images/club-seattle-sounders-fc-usa.png",
     "country": "usa",
+    "type": "club"
+  },
+  {
+    "slug": "club-sevilla-fc-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-sevilla-fc-espana.png",
+    "country": "espana",
     "type": "club"
   },
   {
