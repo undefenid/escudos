@@ -1728,6 +1728,12 @@
     "type": "club"
   },
   {
+    "slug": "club-sevilla-fc-espana",
+    "url": "https://undefenid.github.io/escudos/images/club-sevilla-fc-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-sheffield-united-england",
     "url": "https://undefenid.github.io/escudos/images/club-sheffield-united-england.png",
     "country": "england",
@@ -2302,12 +2308,6 @@
     "url": "https://undefenid.github.io/escudos/images/serbia.png",
     "country": "serbia",
     "type": "national"
-  },
-  {
-    "slug": "sevilla-futbol-club-espana",
-    "url": "https://undefenid.github.io/escudos/images/sevilla-futbol-club-espana.png",
-    "country": "espana",
-    "type": "club"
   },
   {
     "slug": "southampton-football-club-england",
