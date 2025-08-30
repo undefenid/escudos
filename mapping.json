@@ -414,12 +414,6 @@
     "type": "club"
   },
   {
-    "slug": "club-atletico-sarmiento-argentina",
-    "url": "https://undefenid.github.io/escudos/images/club-atletico-sarmiento-argentina.png",
-    "country": "argentina",
-    "type": "club"
-  },
-  {
     "slug": "club-atletico-talleres-cordoba-argentina",
     "url": "https://undefenid.github.io/escudos/images/club-atletico-talleres-cordoba-argentina.png",
     "country": "argentina",
@@ -1731,6 +1725,12 @@
     "slug": "club-sao-paulo-brasil",
     "url": "https://undefenid.github.io/escudos/images/club-sao-paulo-brasil.png",
     "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-sarmiento-j-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-sarmiento-j-argentina.png",
+    "country": "argentina",
     "type": "club"
   },
   {
