@@ -300,12 +300,6 @@
     "type": "club"
   },
   {
-    "slug": "club-atletico-belgrano-argentina",
-    "url": "https://undefenid.github.io/escudos/images/club-atletico-belgrano-argentina.png",
-    "country": "argentina",
-    "type": "club"
-  },
-  {
     "slug": "club-atletico-boca-juniors-argentina",
     "url": "https://undefenid.github.io/escudos/images/club-atletico-boca-juniors-argentina.png",
     "country": "argentina",
@@ -525,6 +519,12 @@
     "slug": "club-bayern-munich-alemania",
     "url": "https://undefenid.github.io/escudos/images/club-bayern-munich-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-belgrano-de-cordoba-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-belgrano-de-cordoba-argentina.png",
+    "country": "argentina",
     "type": "club"
   },
   {
