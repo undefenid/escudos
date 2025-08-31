@@ -438,12 +438,6 @@
     "type": "club"
   },
   {
-    "slug": "club-atletico-union-santa-fe-argentina",
-    "url": "https://undefenid.github.io/escudos/images/club-atletico-union-santa-fe-argentina.png",
-    "country": "argentina",
-    "type": "club"
-  },
-  {
     "slug": "club-atletico-velez-sarsfield-argentina",
     "url": "https://undefenid.github.io/escudos/images/club-atletico-velez-sarsfield-argentina.png",
     "country": "argentina",
@@ -1995,6 +1989,12 @@
     "slug": "club-union-magdalena-colombia",
     "url": "https://undefenid.github.io/escudos/images/club-union-magdalena-colombia.png",
     "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-union-sf-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-union-sf-argentina.png",
+    "country": "argentina",
     "type": "club"
   },
   {
