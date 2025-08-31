@@ -708,6 +708,12 @@
     "type": "club"
   },
   {
+    "slug": "club-colonia-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-colonia-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-comerciantes-unidos-peru",
     "url": "https://undefenid.github.io/escudos/images/club-comerciantes-unidos-peru.png",
     "country": "peru",
@@ -813,6 +819,12 @@
     "slug": "club-delfin-ecuador",
     "url": "https://undefenid.github.io/escudos/images/club-delfin-ecuador.png",
     "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-dep-pasto-colombia",
+    "url": "https://undefenid.github.io/escudos/images/club-dep-pasto-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
@@ -951,6 +963,12 @@
     "slug": "club-estoril-portugal",
     "url": "https://undefenid.github.io/escudos/images/club-estoril-portugal.png",
     "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-estrasburgo-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-estrasburgo-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -1332,9 +1350,21 @@
     "type": "club"
   },
   {
+    "slug": "club-marsella-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-marsella-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-melgar-peru",
     "url": "https://undefenid.github.io/escudos/images/club-melgar-peru.png",
     "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-metz-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-metz-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -1458,6 +1488,12 @@
     "type": "club"
   },
   {
+    "slug": "club-niza-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-niza-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-novorizontino-brasil",
     "url": "https://undefenid.github.io/escudos/images/club-novorizontino-brasil.png",
     "country": "brasil",
@@ -1527,6 +1563,12 @@
     "slug": "club-palmeiras-brasil",
     "url": "https://undefenid.github.io/escudos/images/club-palmeiras-brasil.png",
     "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-paris-fc-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-paris-fc-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -1908,6 +1950,12 @@
     "type": "club"
   },
   {
+    "slug": "club-tijuana-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-tijuana-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-toluca-mexico",
     "url": "https://undefenid.github.io/escudos/images/club-toluca-mexico.png",
     "country": "mexico",
@@ -1940,6 +1988,12 @@
   {
     "slug": "club-u-de-chile-chile",
     "url": "https://undefenid.github.io/escudos/images/club-u-de-chile-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-u-espanola-chile",
+    "url": "https://undefenid.github.io/escudos/images/club-u-espanola-chile.png",
     "country": "chile",
     "type": "club"
   },
@@ -2090,6 +2144,12 @@
   {
     "slug": "club-wolfsburg-alemania",
     "url": "https://undefenid.github.io/escudos/images/club-wolfsburg-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wolfsburgo-alemania",
+    "url": "https://undefenid.github.io/escudos/images/club-wolfsburgo-alemania.png",
     "country": "alemania",
     "type": "club"
   },
