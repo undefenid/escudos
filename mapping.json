@@ -1182,6 +1182,12 @@
     "type": "club"
   },
   {
+    "slug": "club-juarez-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-juarez-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-junior-colombia",
     "url": "https://undefenid.github.io/escudos/images/club-junior-colombia.png",
     "country": "colombia",
@@ -1251,6 +1257,12 @@
     "slug": "club-lens-francia",
     "url": "https://undefenid.github.io/escudos/images/club-lens-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-leon-mexico",
+    "url": "https://undefenid.github.io/escudos/images/club-leon-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
