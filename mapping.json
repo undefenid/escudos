@@ -48,6 +48,12 @@
     "type": "national"
   },
   {
+    "slug": "bodo-glimt",
+    "url": "https://undefenid.github.io/escudos/images/bodo-glimt.png",
+    "country": "glimt",
+    "type": "club"
+  },
+  {
     "slug": "bolivia",
     "url": "https://undefenid.github.io/escudos/images/bolivia.png",
     "country": "bolivia",
@@ -615,6 +621,12 @@
     "slug": "club-bristol-city-england",
     "url": "https://undefenid.github.io/escudos/images/club-bristol-city-england.png",
     "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "club-brugge",
+    "url": "https://undefenid.github.io/escudos/images/club-brugge.png",
+    "country": "brugge",
     "type": "club"
   },
   {
@@ -2280,6 +2292,18 @@
     "type": "club"
   },
   {
+    "slug": "gimnasia-chivilcoy",
+    "url": "https://undefenid.github.io/escudos/images/gimnasia-chivilcoy.png",
+    "country": "chivilcoy",
+    "type": "club"
+  },
+  {
+    "slug": "gimnasia-mendoza",
+    "url": "https://undefenid.github.io/escudos/images/gimnasia-mendoza.png",
+    "country": "mendoza",
+    "type": "club"
+  },
+  {
     "slug": "grecia",
     "url": "https://undefenid.github.io/escudos/images/grecia.png",
     "country": "grecia",
@@ -2386,6 +2410,12 @@
     "url": "https://undefenid.github.io/escudos/images/psg-football-club-francia.png",
     "country": "francia",
     "type": "club"
+  },
+  {
+    "slug": "qarabag",
+    "url": "https://undefenid.github.io/escudos/images/qarabag.png",
+    "country": "qarabag",
+    "type": "national"
   },
   {
     "slug": "racing-club-argentina",
