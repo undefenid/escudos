@@ -144,6 +144,12 @@
     "type": "club"
   },
   {
+    "slug": "club-afc-bournemouth-england",
+    "url": "https://undefenid.github.io/escudos/images/club-afc-bournemouth-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
     "slug": "club-aguilas-doradas-colombia",
     "url": "https://undefenid.github.io/escudos/images/club-aguilas-doradas-colombia.png",
     "country": "colombia",
@@ -630,6 +636,12 @@
     "type": "club"
   },
   {
+    "slug": "club-burnley-england",
+    "url": "https://undefenid.github.io/escudos/images/club-burnley-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
     "slug": "club-cadiz-espana",
     "url": "https://undefenid.github.io/escudos/images/club-cadiz-espana.png",
     "country": "espana",
@@ -1002,6 +1014,18 @@
     "type": "club"
   },
   {
+    "slug": "club-estudiantes-rc-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-estudiantes-rc-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-estudiantes-rio-cuarto-argentina",
+    "url": "https://undefenid.github.io/escudos/images/club-estudiantes-rio-cuarto-argentina.png",
+    "country": "argentina",
+    "type": "club"
+  },
+  {
     "slug": "club-everton-chile",
     "url": "https://undefenid.github.io/escudos/images/club-everton-chile.png",
     "country": "chile",
@@ -1257,6 +1281,12 @@
     "slug": "club-le-havre-francia",
     "url": "https://undefenid.github.io/escudos/images/club-le-havre-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-leeds-united-england",
+    "url": "https://undefenid.github.io/escudos/images/club-leeds-united-england.png",
+    "country": "england",
     "type": "club"
   },
   {
@@ -1629,6 +1659,12 @@
     "slug": "club-plaza-colonia-uruguay",
     "url": "https://undefenid.github.io/escudos/images/club-plaza-colonia-uruguay.png",
     "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-port-vale-england",
+    "url": "https://undefenid.github.io/escudos/images/club-port-vale-england.png",
+    "country": "england",
     "type": "club"
   },
   {
@@ -2181,6 +2217,12 @@
     "slug": "club-wolfsburgo-alemania",
     "url": "https://undefenid.github.io/escudos/images/club-wolfsburgo-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wolverhampton-england",
+    "url": "https://undefenid.github.io/escudos/images/club-wolverhampton-england.png",
+    "country": "england",
     "type": "club"
   },
   {
