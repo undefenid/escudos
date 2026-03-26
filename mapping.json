@@ -66,6 +66,12 @@
     "type": "club"
   },
   {
+    "slug": "bosnia-herzegovina",
+    "url": "https://undefenid.github.io/escudos/images/bosnia-herzegovina.png",
+    "country": "herzegovina",
+    "type": "club"
+  },
+  {
     "slug": "boston-red-sox-otros",
     "url": "https://undefenid.github.io/escudos/images/boston-red-sox-otros.png",
     "country": "otros",
@@ -2250,6 +2256,12 @@
     "type": "club"
   },
   {
+    "slug": "croacia",
+    "url": "https://undefenid.github.io/escudos/images/croacia.png",
+    "country": "croacia",
+    "type": "national"
+  },
+  {
     "slug": "crystal-palace-football-club-england",
     "url": "https://undefenid.github.io/escudos/images/crystal-palace-football-club-england.png",
     "country": "england",
@@ -2328,6 +2340,12 @@
     "type": "club"
   },
   {
+    "slug": "gales",
+    "url": "https://undefenid.github.io/escudos/images/gales.png",
+    "country": "gales",
+    "type": "national"
+  },
+  {
     "slug": "genoa-cricket-football-club-italia",
     "url": "https://undefenid.github.io/escudos/images/genoa-cricket-football-club-italia.png",
     "country": "italia",
@@ -2394,6 +2412,12 @@
     "type": "club"
   },
   {
+    "slug": "macedonia-del-norte",
+    "url": "https://undefenid.github.io/escudos/images/macedonia-del-norte.png",
+    "country": "norte",
+    "type": "club"
+  },
+  {
     "slug": "manchester-city-football-club-england",
     "url": "https://undefenid.github.io/escudos/images/manchester-city-football-club-england.png",
     "country": "england",
@@ -2446,6 +2470,12 @@
     "url": "https://undefenid.github.io/escudos/images/philadelphia-phillies-otros.png",
     "country": "otros",
     "type": "club"
+  },
+  {
+    "slug": "polonia",
+    "url": "https://undefenid.github.io/escudos/images/polonia.png",
+    "country": "polonia",
+    "type": "national"
   },
   {
     "slug": "portugal",
@@ -2517,6 +2547,12 @@
     "slug": "suiza",
     "url": "https://undefenid.github.io/escudos/images/suiza.png",
     "country": "suiza",
+    "type": "national"
+  },
+  {
+    "slug": "surinam",
+    "url": "https://undefenid.github.io/escudos/images/surinam.png",
+    "country": "surinam",
     "type": "national"
   },
   {
