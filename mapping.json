@@ -18,6 +18,12 @@
     "type": "national"
   },
   {
+    "slug": "argelia",
+    "url": "https://undefenid.github.io/escudos/images/argelia.png",
+    "country": "argelia",
+    "type": "national"
+  },
+  {
     "slug": "argentina",
     "url": "https://undefenid.github.io/escudos/images/argentina.png",
     "country": "argentina",
@@ -2256,6 +2262,12 @@
     "type": "club"
   },
   {
+    "slug": "costa-rica",
+    "url": "https://undefenid.github.io/escudos/images/costa-rica.png",
+    "country": "rica",
+    "type": "club"
+  },
+  {
     "slug": "croacia",
     "url": "https://undefenid.github.io/escudos/images/croacia.png",
     "country": "croacia",
@@ -2358,6 +2370,12 @@
     "type": "club"
   },
   {
+    "slug": "ghana",
+    "url": "https://undefenid.github.io/escudos/images/ghana.png",
+    "country": "ghana",
+    "type": "national"
+  },
+  {
     "slug": "gimnasia-chivilcoy",
     "url": "https://undefenid.github.io/escudos/images/gimnasia-chivilcoy.png",
     "country": "chivilcoy",
@@ -2373,6 +2391,12 @@
     "slug": "grecia",
     "url": "https://undefenid.github.io/escudos/images/grecia.png",
     "country": "grecia",
+    "type": "national"
+  },
+  {
+    "slug": "guatemala",
+    "url": "https://undefenid.github.io/escudos/images/guatemala.png",
+    "country": "guatemala",
     "type": "national"
   },
   {
@@ -2397,6 +2421,12 @@
     "slug": "italia",
     "url": "https://undefenid.github.io/escudos/images/italia.png",
     "country": "italia",
+    "type": "national"
+  },
+  {
+    "slug": "jordania",
+    "url": "https://undefenid.github.io/escudos/images/jordania.png",
+    "country": "jordania",
     "type": "national"
   },
   {
@@ -2433,6 +2463,12 @@
     "slug": "mexico",
     "url": "https://undefenid.github.io/escudos/images/mexico.png",
     "country": "mexico",
+    "type": "national"
+  },
+  {
+    "slug": "montenegro",
+    "url": "https://undefenid.github.io/escudos/images/montenegro.png",
+    "country": "montenegro",
     "type": "national"
   },
   {
