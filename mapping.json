@@ -558,6 +558,12 @@
     "type": "club"
   },
   {
+    "slug": "club-blooming-bolivia",
+    "url": "https://undefenid.github.io/escudos/images/club-blooming-bolivia.png",
+    "country": "bolivia",
+    "type": "club"
+  },
+  {
     "slug": "club-boca-jrs-argentina",
     "url": "https://undefenid.github.io/escudos/images/club-boca-jrs-argentina.png",
     "country": "argentina",
@@ -1275,6 +1281,12 @@
     "slug": "club-la-equidad-colombia",
     "url": "https://undefenid.github.io/escudos/images/club-la-equidad-colombia.png",
     "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-la-galaxy-usa",
+    "url": "https://undefenid.github.io/escudos/images/club-la-galaxy-usa.png",
+    "country": "usa",
     "type": "club"
   },
   {
