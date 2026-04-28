@@ -1206,6 +1206,12 @@
     "type": "club"
   },
   {
+    "slug": "club-independiente-petrolero-bolivia",
+    "url": "https://undefenid.github.io/escudos/images/club-independiente-petrolero-bolivia.png",
+    "country": "bolivia",
+    "type": "club"
+  },
+  {
     "slug": "club-inter-italia",
     "url": "https://undefenid.github.io/escudos/images/club-inter-italia.png",
     "country": "italia",
@@ -1658,6 +1664,12 @@
   {
     "slug": "club-paris-fc-francia",
     "url": "https://undefenid.github.io/escudos/images/club-paris-fc-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-paris-saint-germain-francia",
+    "url": "https://undefenid.github.io/escudos/images/club-paris-saint-germain-francia.png",
     "country": "francia",
     "type": "club"
   },
@@ -2151,6 +2163,12 @@
     "slug": "club-universidad-catolica-chile",
     "url": "https://undefenid.github.io/escudos/images/club-universidad-catolica-chile.png",
     "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-universidad-central-venezuela",
+    "url": "https://undefenid.github.io/escudos/images/club-universidad-central-venezuela.png",
+    "country": "venezuela",
     "type": "club"
   },
   {
