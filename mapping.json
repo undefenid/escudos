@@ -2616,10 +2616,22 @@
     "type": "club"
   },
   {
+    "slug": "sudafrica",
+    "url": "https://undefenid.github.io/escudos/images/sudafrica.png",
+    "country": "sudafrica",
+    "type": "national"
+  },
+  {
     "slug": "suiza",
     "url": "https://undefenid.github.io/escudos/images/suiza.png",
     "country": "suiza",
     "type": "national"
+  },
+  {
+    "slug": "sur-africa",
+    "url": "https://undefenid.github.io/escudos/images/sur-africa.png",
+    "country": "africa",
+    "type": "club"
   },
   {
     "slug": "surinam",
