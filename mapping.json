@@ -2298,6 +2298,12 @@
     "type": "club"
   },
   {
+    "slug": "corea-del-sur",
+    "url": "https://undefenid.github.io/escudos/images/corea-del-sur.png",
+    "country": "sur",
+    "type": "club"
+  },
+  {
     "slug": "costa-rica",
     "url": "https://undefenid.github.io/escudos/images/costa-rica.png",
     "country": "rica",
@@ -2595,6 +2601,12 @@
     "slug": "real-valladolid-club-de-futbol-espana",
     "url": "https://undefenid.github.io/escudos/images/real-valladolid-club-de-futbol-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "republica-checa",
+    "url": "https://undefenid.github.io/escudos/images/republica-checa.png",
+    "country": "checa",
     "type": "club"
   },
   {
