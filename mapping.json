@@ -48,6 +48,12 @@
     "type": "club"
   },
   {
+    "slug": "australia",
+    "url": "https://undefenid.github.io/escudos/images/australia.png",
+    "country": "australia",
+    "type": "national"
+  },
+  {
     "slug": "austria",
     "url": "https://undefenid.github.io/escudos/images/austria.png",
     "country": "austria",
