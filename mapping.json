@@ -114,6 +114,12 @@
     "type": "national"
   },
   {
+    "slug": "catar",
+    "url": "https://undefenid.github.io/escudos/images/catar.png",
+    "country": "catar",
+    "type": "national"
+  },
+  {
     "slug": "chelsea-football-club-england",
     "url": "https://undefenid.github.io/escudos/images/chelsea-football-club-england.png",
     "country": "england",
@@ -2346,6 +2352,12 @@
     "type": "club"
   },
   {
+    "slug": "escocia",
+    "url": "https://undefenid.github.io/escudos/images/escocia.png",
+    "country": "escocia",
+    "type": "national"
+  },
+  {
     "slug": "eslovaquia",
     "url": "https://undefenid.github.io/escudos/images/eslovaquia.png",
     "country": "eslovaquia",
@@ -2439,6 +2451,12 @@
     "slug": "guatemala",
     "url": "https://undefenid.github.io/escudos/images/guatemala.png",
     "country": "guatemala",
+    "type": "national"
+  },
+  {
+    "slug": "haiti",
+    "url": "https://undefenid.github.io/escudos/images/haiti.png",
+    "country": "haiti",
     "type": "national"
   },
   {
