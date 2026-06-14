@@ -2316,6 +2316,12 @@
     "type": "club"
   },
   {
+    "slug": "costa-de-marfil",
+    "url": "https://undefenid.github.io/escudos/images/costa-de-marfil.png",
+    "country": "marfil",
+    "type": "club"
+  },
+  {
     "slug": "costa-rica",
     "url": "https://undefenid.github.io/escudos/images/costa-rica.png",
     "country": "rica",
@@ -2463,6 +2469,12 @@
     "slug": "haiti",
     "url": "https://undefenid.github.io/escudos/images/haiti.png",
     "country": "haiti",
+    "type": "national"
+  },
+  {
+    "slug": "holanda",
+    "url": "https://undefenid.github.io/escudos/images/holanda.png",
+    "country": "holanda",
     "type": "national"
   },
   {
