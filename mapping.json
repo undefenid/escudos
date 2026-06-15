@@ -18,6 +18,12 @@
     "type": "national"
   },
   {
+    "slug": "arabia-saudita",
+    "url": "https://undefenid.github.io/escudos/images/arabia-saudita.png",
+    "country": "saudita",
+    "type": "club"
+  },
+  {
     "slug": "argelia",
     "url": "https://undefenid.github.io/escudos/images/argelia.png",
     "country": "argelia",
@@ -57,6 +63,12 @@
     "slug": "austria",
     "url": "https://undefenid.github.io/escudos/images/austria.png",
     "country": "austria",
+    "type": "national"
+  },
+  {
+    "slug": "belgica",
+    "url": "https://undefenid.github.io/escudos/images/belgica.png",
+    "country": "belgica",
     "type": "national"
   },
   {
@@ -2490,9 +2502,21 @@
     "type": "club"
   },
   {
+    "slug": "iran",
+    "url": "https://undefenid.github.io/escudos/images/iran.png",
+    "country": "iran",
+    "type": "national"
+  },
+  {
     "slug": "irlanda-del-norte",
     "url": "https://undefenid.github.io/escudos/images/irlanda-del-norte.png",
     "country": "norte",
+    "type": "club"
+  },
+  {
+    "slug": "islas-de-cabo-verde",
+    "url": "https://undefenid.github.io/escudos/images/islas-de-cabo-verde.png",
+    "country": "verde",
     "type": "club"
   },
   {
@@ -2559,6 +2583,12 @@
     "slug": "nottingham-forest-football-club-england",
     "url": "https://undefenid.github.io/escudos/images/nottingham-forest-football-club-england.png",
     "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "nueva-zelanda",
+    "url": "https://undefenid.github.io/escudos/images/nueva-zelanda.png",
+    "country": "zelanda",
     "type": "club"
   },
   {
