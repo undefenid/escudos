@@ -2508,6 +2508,12 @@
     "type": "national"
   },
   {
+    "slug": "iraq",
+    "url": "https://undefenid.github.io/escudos/images/iraq.png",
+    "country": "iraq",
+    "type": "national"
+  },
+  {
     "slug": "irlanda-del-norte",
     "url": "https://undefenid.github.io/escudos/images/irlanda-del-norte.png",
     "country": "norte",
@@ -2679,6 +2685,12 @@
     "slug": "rumania",
     "url": "https://undefenid.github.io/escudos/images/rumania.png",
     "country": "rumania",
+    "type": "national"
+  },
+  {
+    "slug": "senegal",
+    "url": "https://undefenid.github.io/escudos/images/senegal.png",
+    "country": "senegal",
     "type": "national"
   },
   {
