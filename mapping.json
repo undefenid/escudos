@@ -2604,6 +2604,12 @@
     "type": "club"
   },
   {
+    "slug": "panama",
+    "url": "https://undefenid.github.io/escudos/images/panama.png",
+    "country": "panama",
+    "type": "national"
+  },
+  {
     "slug": "paraguay",
     "url": "https://undefenid.github.io/escudos/images/paraguay.png",
     "country": "paraguay",
@@ -2649,6 +2655,12 @@
     "slug": "racing-club-argentina",
     "url": "https://undefenid.github.io/escudos/images/racing-club-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "rd-del-congo",
+    "url": "https://undefenid.github.io/escudos/images/rd-del-congo.png",
+    "country": "congo",
     "type": "club"
   },
   {
@@ -2763,6 +2775,12 @@
     "slug": "usa",
     "url": "https://undefenid.github.io/escudos/images/usa.png",
     "country": "usa",
+    "type": "national"
+  },
+  {
+    "slug": "uzbekistan",
+    "url": "https://undefenid.github.io/escudos/images/uzbekistan.png",
+    "country": "uzbekistan",
     "type": "national"
   },
   {
