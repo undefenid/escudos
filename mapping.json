@@ -132,12 +132,6 @@
     "type": "national"
   },
   {
-    "slug": "catar",
-    "url": "https://undefenid.github.io/escudos/images/catar.png",
-    "country": "catar",
-    "type": "national"
-  },
-  {
     "slug": "chelsea-football-club-england",
     "url": "https://undefenid.github.io/escudos/images/chelsea-football-club-england.png",
     "country": "england",
@@ -2649,6 +2643,12 @@
     "slug": "qarabag",
     "url": "https://undefenid.github.io/escudos/images/qarabag.png",
     "country": "qarabag",
+    "type": "national"
+  },
+  {
+    "slug": "qatar",
+    "url": "https://undefenid.github.io/escudos/images/qatar.png",
+    "country": "qatar",
     "type": "national"
   },
   {
